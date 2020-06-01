@@ -5,7 +5,9 @@
 Questa è una semplice applicazione meteo Xamarin Android 
 sviluppata come progetto finale del corso Xamarin erogato da ITCube Consulting ad Aprile 2020.
 
-L'applicazione fornisce gli ultimi dati meteorologici della città desiderata, forniti da OpenWeatherMap.
+L'applicazione fornisce gli ultimi dati meteorologici della città desiderata.
+
+Sorgente Dati: OpenWeatherMap API
 
 [ENG]
 
