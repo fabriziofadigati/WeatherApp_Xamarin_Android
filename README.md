@@ -8,6 +8,7 @@ sviluppata come progetto finale del corso Xamarin erogato da ITCube Consulting a
 L'applicazione fornisce gli ultimi dati meteorologici della città desiderata.
 
 Sorgente Dati: OpenWeatherMap API
+Immagini UI: cartella Preview
 
 [ENG]
 
@@ -17,6 +18,7 @@ developed as the final project of the ITCube Consulting Xamarin Course in April 
 The application provides the latest meteorological data of the desired city.
 
 Data Source: OpenWeatherMap API
+UI Images: Preview folder
 
 
 
