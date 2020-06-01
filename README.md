@@ -12,7 +12,9 @@ L'applicazione fornisce gli ultimi dati meteorologici della città desiderata, f
 This is a simple Xamarin Android weather application
 developed as the final project of the ITCube Consulting Xamarin Course in April 2020.S
 
-The application provides the latest meteorological data of the desired city, provided by OpenWeatherMap.
+The application provides the latest meteorological data of the desired city.
+
+Data Source: OpenWeatherMap API
 
 
 
