@@ -1,0 +1,71 @@
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:minWidth="25px"
+    android:minHeight="25px">
+
+    <ImageView
+        android:src="@drawable/homeimage"
+        android:layout_width="400dp"
+        android:layout_height="200dp"
+        android:id="@+id/imageView1"
+        android:layout_marginTop="37.0dp"
+        android:layout_marginBottom="0.0dp"
+        android:layout_gravity="center"
+        android:foregroundGravity="center" />
+
+
+    <TextView
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="383.5dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4"
+        android:layout_marginTop="22.5dp"
+        android:gravity="center"
+        android:layout_marginLeft="0.0dp"
+        android:layout_marginRight="0.0dp"
+        android:layout_gravity="start"
+        android:textColor="#ff3498db"
+        android:textStyle="bold"
+        android:hint="Inserisci qui la tua città"
+        android:text="Meteo della tua città" />
+    <EditText
+        android:inputType="textPersonName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/input"
+        android:textColor="#ff3498db"
+        android:layout_marginTop="16.0dp"
+        android:layout_marginLeft="22.5dp"
+        android:layout_marginRight="22.5dp" 
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        />
+    <Button
+        android:text="CERCA"
+        android:layout_width="343.0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/searchbutton"
+        android:layout_marginBottom="0.0dp"
+        android:layout_marginTop="31.5dp"
+        android:textStyle="normal|italic"
+        android:background="#ff3498db"
+        android:layout_gravity="center"
+        android:textColor="#ff000000" />
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
